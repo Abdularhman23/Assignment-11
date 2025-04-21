@@ -22,7 +22,6 @@ void main() {
   // List: stores ordered items
   Map<String, int> order = {};
 
-
   bool isRunning = true;
 
   while (isRunning) {
